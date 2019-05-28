@@ -1,3 +1,22 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@mille265 
+32
+0 9 learn-co-students/oo-banking-seattle-web-051319
+ Code  Issues 0  Pull requests 0  Projects 0  Insights
+oo-banking-seattle-web-051319/spec/banking_spec.rb
+ jenmyers Remove extra describe blocks in tests
+3b7122b on Sep 10, 2018
+@kthffmn @ahimmelstoss @pletcher
+60 lines (49 sloc)  1.41 KB
+    
 describe "BankAccount" do
 
   let(:avi) { BankAccount.new("Avi") }
@@ -57,3 +76,15 @@ describe "BankAccount" do
     end
   end
 end
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
